@@ -43,17 +43,3 @@ Hey! I'm [Your Name] — a [student/developer/engineer] working on
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-<!-- Optional visitor counter -->
-![Visitor count](https://visitcount.itsvg.in/api?id=YOUR-USERNAME&icon=0&color=0)
-
-<!--
-  Note: pinned repositories are NOT set from this README -- they're a
-  separate profile feature. Go to your profile page -> "Customize your
-  pins" -> pick up to 6 repos.
--->
