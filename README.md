@@ -31,15 +31,7 @@ Hey! I'm [Your Name] — a [student/developer/engineer] working on
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 <!-- add/remove badges as needed -->
 
-# 📊 GitHub Stats:
 
-<!-- These are third-party services that generate a live SVG image on the
-     fly based on your username in the URL. No setup needed beyond
-     putting your username in. -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-![Streak stats](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
