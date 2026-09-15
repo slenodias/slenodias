@@ -11,8 +11,7 @@
 
 # 💫 About Me:
 
-Hey! I'm [Your Name] — a [student/developer/engineer] working on
-[what you build]. Currently exploring [topic/tech you're learning].
+Hey! Nerds
 
 - 🔭 Currently working on: ...
 - 🌱 Currently learning: ...
@@ -25,10 +24,11 @@ Hey! I'm [Your Name] — a [student/developer/engineer] working on
      by choosing a "static badge", or copy one below and edit the text
      after the dashes in the URL. -->
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat&logo=yolo&logoColor=white)
 <!-- add/remove badges as needed -->
 
 
