@@ -13,16 +13,12 @@
 
 Hey! Nerds
 
-- Exploring Edge-AI 👾
-
 # 💻 Tech Stack:
 
 <!-- Each badge is a shields.io image. Generate more at https://shields.io
      by choosing a "static badge", or copy one below and edit the text
      after the dashes in the URL. -->
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat&logo=yolo&logoColor=white)
